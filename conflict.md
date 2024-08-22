@@ -26,6 +26,9 @@ Ham
                 juicy beef
 bottom bun      bottom bun
 
+Deleted 3 lines and added by beef to line 6
+refer to the screenshot on the document file. under "Resolved the conflict"
+
 After pull merge of both of the pull requests. It will look like this.
 
 top bun
@@ -33,7 +36,7 @@ Cheese
 Pickle         
 Tofu
 Ham
-juicy beef
+juicy beef (Added by Sheehan)
 bottom bun
 
 Conflict fixed.
